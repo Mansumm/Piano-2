@@ -1,0 +1,15 @@
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\Piano\Piano\bin\Debug\net6.0\Piano.exe
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\Piano\Piano\bin\Debug\net6.0\Piano.deps.json
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\Piano\Piano\bin\Debug\net6.0\Piano.runtimeconfig.json
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\Piano\Piano\bin\Debug\net6.0\Piano.dll
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\Piano\Piano\bin\Debug\net6.0\Piano.pdb
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\Piano\Piano\obj\Debug\net6.0\Piano.csproj.AssemblyReference.cache
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\Piano\Piano\obj\Debug\net6.0\Piano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\Piano\Piano\obj\Debug\net6.0\Piano.AssemblyInfoInputs.cache
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\Piano\Piano\obj\Debug\net6.0\Piano.AssemblyInfo.cs
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\Piano\Piano\obj\Debug\net6.0\Piano.csproj.CoreCompileInputs.cache
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\Piano\Piano\obj\Debug\net6.0\Piano.dll
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\Piano\Piano\obj\Debug\net6.0\refint\Piano.dll
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\Piano\Piano\obj\Debug\net6.0\Piano.pdb
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\Piano\Piano\obj\Debug\net6.0\Piano.genruntimeconfig.cache
+C:\Users\Мансум\Desktop\П50-4-21 ( 2 курс )\ОАиП\Piano\Piano\obj\Debug\net6.0\ref\Piano.dll
